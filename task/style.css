@@ -1,0 +1,23 @@
+#news{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkslategrey;
+    
+}
+#container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 200px;
+}
+#first{
+    color: black;
+}
+#fimg{
+    border-radius: 10px;
+}
+#simg{
+    border-radius: 10px;
+}
+#timg{
+    border-radius: 10px;
+}

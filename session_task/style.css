@@ -1,0 +1,16 @@
+#img{
+
+   padding-left: 100px;
+}
+#content{
+    text-align: right;
+    padding-top: 20px;
+}
+#details{
+   text-align: right;
+   padding-left: 100px;
+    padding-right: 100px;
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
